@@ -14,6 +14,10 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 # Information Collection and Use
 
+The app only records data strictly necessary for its function, which is the app settings, last shown tab, last installed version, and very minor things like that. The app does not include any advertisement libraries or any 3rd party tracking (analytics) code, such as Google Analytics.
+
+All data provided and created when using the app is stored locally on your device. The app does not send or upload your data as it doesn't get Internet access from the system.
+
 # Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
